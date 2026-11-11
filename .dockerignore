@@ -1,0 +1,13 @@
+.git
+.venv
+ai/.venv
+__pycache__
+*.pyc
+*.pyo
+
+data
+article_assets
+*.log
+
+.env
+.env.*

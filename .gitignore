@@ -1,0 +1,16 @@
+.venv/
+ai/.venv/
+__pycache__/
+*.py[cod]
+
+data/
+article_assets/
+*.log
+
+.env
+.env.*
+!.env.example
+
+# 本地登录凭证、Cookie 和模型 API Key
+login_config.json
+ai/config.json
